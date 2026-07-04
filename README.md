@@ -6,8 +6,6 @@ Profile Loaded!
 Welcome to my page!  
 I am a Software Engineer at BT Group.
 
-#### Tools & Technologies I Work With  
-
 #### Areas of Interest  
 Artificial Intelligence • Machine Learning • Data Science • Generative AI • LLM Applications • Data Analytics
 
