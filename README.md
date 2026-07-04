@@ -1,3 +1,3 @@
-#### Hiya! I'm Katelyn ✨
+#### Hiya! I'm Katelyn
 
 
