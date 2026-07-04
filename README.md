@@ -3,5 +3,7 @@ Loading Profile....
 Profile Loaded!
 
 ### Hiya! I'm Katelyn
+I am a Software Engineer at BT Group
+
 
 P.S. That little pixel avatar on my profile? That's me! I designed it myself 👾
