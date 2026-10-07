@@ -7,7 +7,7 @@ Welcome to my page!
 I'm an MSc Artificial Intelligence student at the University of Birmingham, with a background in Computer Science & Engineering and professional experience at BT Group.
 
 ### Areas of Interest:
-‣ Machine Learning & Deep Learning
+‣ Machine Learning & Deep Learning <br>
 ‣ Generative AI & LLM Applications
 ‣ Data Science & Predictive Modelling
 ‣ AI-driven Automation
