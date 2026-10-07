@@ -8,14 +8,14 @@ I'm an MSc Artificial Intelligence student at the University of Birmingham, with
 
 ### Areas of Interest:
 ‣ Machine Learning & Deep Learning <br>
-‣ Generative AI & LLM Applications
-‣ Data Science & Predictive Modelling
+‣ Generative AI & LLM Applications <br>
+‣ Data Science & Predictive Modelling <br>
 ‣ AI-driven Automation
 
 ### Some of the things I've worked on include:
-‣ Crowd Density Detection
-‣ Song Popularity Prediction
-‣ Hypothyroid Profile Detection
+‣ Crowd Density Detection <br>
+‣ Song Popularity Prediction <br>
+‣ Hypothyroid Profile Detection <br>
 ‣ NavAble: Algorithmic Railway Station Navigation Solution
 
 
